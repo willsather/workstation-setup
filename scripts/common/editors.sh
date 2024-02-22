@@ -9,6 +9,7 @@ echo "Uncomment other editors and rerun if you want them"
 
 brew install --cask visual-studio-code
 brew install vim
+brew install nvim
 
 echo
 echo "Other editors are available in this script."
@@ -18,6 +19,5 @@ echo "Uncomment what you want."
 # brew install --cask textmate
 # brew install --cask macvim
 # brew install --cask jetbrains-toolbox --force # guard against pre-installed jetbrains-toolbox
-# brew install --cask atom
 
 set -e
